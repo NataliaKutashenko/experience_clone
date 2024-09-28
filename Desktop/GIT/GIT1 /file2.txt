@@ -1,0 +1,2 @@
+MySecondFile
+I will add the second line into file2
